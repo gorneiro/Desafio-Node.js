@@ -1,0 +1,12 @@
+{
+  "name": "Mateus Carneiro",
+  "email": "mateus-junior@teste.com",
+  "password": "asdw123",
+  "telephones": [
+    {
+      "number": "999999999",
+      "area_code": "11"
+    }
+  ]
+ }
+ 

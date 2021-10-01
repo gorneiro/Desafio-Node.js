@@ -1,16 +1,14 @@
-<<<<<<< HEAD
 Primeiro começei preparando o ambiente, instalando o node.js, npm,Express,gitHub, Eslint.
 Logo em seguida fui atras do que era uma API, REST e RESTful.
 Assim criei meu index.js e a primeira linha de comando digitada foi app.listen para inicializar o nosso servidor.
 O primeiro teste foi feito no browser
 
----
 
 Verbos HTTP
 Get: Receber dados de um Resource/endpoint
 Post: Enviar dados ou informações para serem processados por um resource/endpoint
 
----
+
 
 Codigos de resposta
 200:ok
@@ -18,7 +16,10 @@ Codigos de resposta
 204:não tem conteúdo put, post, delete
 400: bad request
 404: not found
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9dff14dd559aef4edd287c9bfc77e76592d445e6
 
 # Desafio-Node.js
 

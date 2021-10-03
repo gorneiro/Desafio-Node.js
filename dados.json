@@ -1,12 +1,48 @@
 {
-  "name": "Mateus Carneiro",
-  "email": "mateus-junior@teste.com",
-  "password": "asdw123",
-  "telephones": [
+  "users": [
     {
-      "number": "999999999",
-      "area_code": "11"
+      "name": "Mateus Carneiro",
+      "email": "mateus-junior@teste.com",
+      "password": "asdw123",
+      "telephones": [
+        {
+          "number": "999999999",
+          "area_code": "11"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Silva",
+      "email": "dsilva@teste.com",
+      "password": "asdw098",
+      "telephones": [
+        {
+          "number": "999999999",
+          "area_code": "21"
+        }
+      ]
+    },
+    {
+      "name": "teste",
+      "email": "teste@unimedguarulhos.com",
+      "password": "asdw123",
+      "telephone": "1100000000"
+    },
+    {
+      "name": "leonardo",
+      "email": "leo@unimedguarulhos.com",
+      "password": "asdsdw123",
+      "telephone": "1100000000"
+    }
+  ],
+  "cargos": [
+    {
+      "id": 1,
+      "descricao": "Analista de suporte"
+    },
+    {
+      "id": 2,
+      "descricao": "Desenvolvedor"
     }
   ]
- }
- 
+}

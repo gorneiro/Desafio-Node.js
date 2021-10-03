@@ -1,6 +1,6 @@
 # Desafio API em Node.JS
 
-Criação de uma API para validação de usuario e senha.
+<P1>Criação de uma API para validação de usuario e senha.</P1>
 
 Primeiro começei preparando o ambiente, instalando o node.js, npm,Express,gitHub, Eslint.
 Logo em seguida fui atras do que era uma API, REST e RESTful.
@@ -66,3 +66,5 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
 204:não tem conteúdo put, post, delete
 400: bad request
 404: not found
+
+Obrigado por lerem.

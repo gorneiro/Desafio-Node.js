@@ -57,6 +57,6 @@ app.post('/signin', function (req, res) {
   return res.json({ token })
 }) //Criação da rota signin,logar e criar o JWT
 
-app.listen(8084, function () {
-  console.log('Servidor Rodando na URL http://localhost:8084')
+app.listen(3000, function () {
+  console.log('Servidor Rodando na URL http://localhost:3000')
 }) //Fiz a ligação do meu servidor

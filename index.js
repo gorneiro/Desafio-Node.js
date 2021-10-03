@@ -7,6 +7,7 @@ const teste = 'teste321' // declarei a constante teste para a segunda diretriz s
 const validar = require('./validation.js')
 const fs = require('fs')
 const db = require('./db')
+const port = process.env.PORT || 3000
 
 app.use(express.json()) //informei para que a constante app use a função de leitura do json
 
@@ -57,6 +58,6 @@ app.post('/signin', function (req, res) {
   return res.json({ token })
 }) //Criação da rota signin,logar e criar o JWT
 
-app.listen(3000, function () {
-  console.log('Servidor Rodando na URL http://localhost:3000')
+app.listen(port, function () {
+  console.log('Servidor Rodando na URL http://localhost:' + port)
 }) //Fiz a ligação do meu servidor

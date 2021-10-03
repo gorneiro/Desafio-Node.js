@@ -8,7 +8,7 @@ Assim criei meu index.js e a primeira linha de comando digitada foi app.listen p
 Logo em seguida começei a criar as rotas, com get e post.
 Para a consulta de dados eu criei o arquivo dados.json para armazenar as informações.
 Fiz a criação do JWT, com 3 parametros para retornar o 'token'.
-E então a criação do db.js minha maior dificuldade no projeto, foi a criação da logica e a sintaxe, precisei pesquisar muito para enteder.
+Minha maior dificuldade no projeto foi a criação do db.js, a logica e a sintaxe para o desenvolvimento do mesmo, precisei pesquisar muito para enteder.
 Depois de todos os ajustes, eu fiz o deploy no heroku.
 
 Abaixo segue algumas das fontes de pesquisa que eu estudei para a criação da aplicação!

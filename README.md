@@ -2,16 +2,20 @@
 
 <P1>Criação de uma API para validação de usuario e senha.</P1>
 
-Primeiro começei preparando o ambiente, instalando o node.js, npm,Express,gitHub, Eslint.
+Primeiro comecei preparando o ambiente, instalando o node.js, npm,Express,gitHub, Eslint.
 Logo em seguida fui atras do que era uma API, REST e RESTful.
 Assim criei meu index.js e a primeira linha de comando digitada foi app.listen para inicializar o nosso servidor.
-Logo em seguida começei a criar as rotas, com get e post.
+Logo em seguida comecei a criar as rotas, com get e post.
 Para a consulta de dados eu criei o arquivo dados.json para armazenar as informações.
 Fiz a criação do JWT, com 3 parametros para retornar o 'token'.
 Minha maior dificuldade no projeto foi a criação do db.js, a logica e a sintaxe para o desenvolvimento do mesmo, precisei pesquisar muito para enteder.
-Depois de todos os ajustes, eu fiz o deploy no heroku.
+Depois de todos os ajustes, eu fiz o deploy no heroku, os link estão abaixo para testes:
 
-Abaixo segue algumas das fontes de pesquisa que eu estudei para a criação da aplicação!
+https://apitestemobi.herokuapp.com/Search
+https://apitestemobi.herokuapp.com/Signin
+https://apitestemobi.herokuapp.com/Signup
+
+A seguir, seguem algumas das fontes de pesquisas que eu estudei para a criação da aplicação!
 
 O que é API? REST e RESTful? | Mayk Brito
 https://www.youtube.com/watch?v=ghTrp1x_1As

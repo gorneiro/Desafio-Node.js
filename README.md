@@ -72,3 +72,8 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
 404: not found
 
 Obrigado por lerem.
+-------------------------------
+Criando banco de dados com postgresql no heroku
+https://www.youtube.com/watch?v=CrSLbdk6PqI
+
+

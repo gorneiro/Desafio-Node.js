@@ -75,5 +75,7 @@ Obrigado por lerem.
 -------------------------------
 Criando banco de dados com postgresql no heroku
 https://www.youtube.com/watch?v=CrSLbdk6PqI
+Criar base postgresql no heroku
+https://www.youtube.com/watch?v=TVW3tsMcGzA
 
 
